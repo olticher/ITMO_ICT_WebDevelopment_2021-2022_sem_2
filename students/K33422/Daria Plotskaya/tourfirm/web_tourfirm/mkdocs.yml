@@ -1,6 +1,7 @@
 site_name: My Docs
+
 pages:
- - Титульник: intro.md
+ - Титульник: index.md
  - Введение: observation.md
  - Ход работы: 
     - Лабораторная работа №1: work.md
